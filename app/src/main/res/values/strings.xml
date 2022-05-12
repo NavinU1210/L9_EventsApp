@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">EventsApp</string>
+    <string name="dashboard_title">Dashboard</string>
+    <string name="dashboard_heading">Find Amazing Events happening to find your perfect match!</string>
+    <string name="dashboard_sub_title">Lot of events around you</string>
+    <string name="search_bar_hint">search for an event..</string>
+    <string name="dummy_text">hehe hi nshu sjdjshd bsbhs bbsss jkbkkjj </string>
+
+    <string name="location">Electric Bixton, London, UK</string>
+    <string name="desc2">Fireworks can make everyone happy. It just depends if we are talking about fireworks in the sky or fireworks with another. Join the romantic event and we assure you what there will be others who will light up your eyes along with fireworks</string>
+    <string name="desc">Leading nightclub venue hosting dance DJ sets and an eclectic live music programme. An event only for single music lovers.</string>
+</resources>
